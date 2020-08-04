@@ -18,6 +18,6 @@ You should know how to print a variable in a string for these exercises:
 
 ## Advance Exercises
 
-These are solved if you can use string.format() method. (Not tought in day-1)
+These are solved if you can use string.format() method. (Not taught in day-1)
 
 88, 119, 120, 135
